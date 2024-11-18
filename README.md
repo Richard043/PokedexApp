@@ -6,7 +6,7 @@ A modern, lightweight, and interactive Pokedex application built using [PokeAPI]
 
 
 # Download
-Download the app: [Pokedexapp.apk](https://drive.google.com/uc?id=1eHfAgO3PAOR8tkr2mzdbpm0OgerlXcKt)
+Download the app: [PokedexApp.apk](https://drive.google.com/uc?id=1eHfAgO3PAOR8tkr2mzdbpm0OgerlXcKt)
 
 
 ## Screenshots
