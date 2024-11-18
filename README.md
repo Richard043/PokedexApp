@@ -8,11 +8,9 @@ A modern, lightweight, and interactive Pokedex application built using [PokeAPI]
 
 ## Screenshots
 
-<img src="Screenshots/MainMenu.jpg" alt="Main Menu" width="250">
+<img src="Screenshots/MainMenu.jpg" alt="Main Menu" width="250">    <img src="Screenshots/PokeData.jpg" alt="Pokemon Data" width="250">    <img src="Screenshots/PokeMovesets.jpg" alt="Pokemon Movesets" width="250">
 
-<img src="Screenshots/PokeData.jpg" alt="Pokemon Data" width="250">
 
-<img src="Screenshots/PokeMovesets.jpg" alt="Pokemon Movesets" width="250">
 
 <img src="Screenshots/PokeStats.jpg" alt="Pokemon Stats" width="250">
 
