@@ -2,7 +2,7 @@
 
 # Pokedex App
 
-A modern, lightweight, and interactive Pokedex application built using [PokeAPI](https://pokeapi.co). This app allows users to search for and explore detailed information about their favorite Pokémon, including stats, abilities, types, and more.
+A modern, lightweight, and interactive Pokedex application built using [PokeAPI](https://pokeapi.co) and Android Studio as the builder. This app allows users to search for and explore detailed information about their favorite Pokémon, including stats, abilities, types, and more.
 
 
 ## Screenshots
