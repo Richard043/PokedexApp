@@ -16,4 +16,4 @@ A modern, lightweight, and interactive Pokedex application built using [PokeAPI]
 The app fetches data from [PokeAPI](https://pokeapi.co). Below are the key endpoints used:
 
 - **Pokémon Details**: `https://pokeapi.co/api/v2/pokemon/{id or name}`
-- **Types**: `https://pokeapi.co/api/v2/type`
+- **Types**: `https://pokeapi.co/api/v2/type/{id or name}`
